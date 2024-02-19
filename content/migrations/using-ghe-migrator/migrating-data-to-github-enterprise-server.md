@@ -114,7 +114,7 @@ You can choose to map the user to a different user on the target. Suppose you kn
 
 | `model_name`   | `source_url`   | `target_url` | `recommended_action` |
 |--------------|--------------|------------|--------------------|
-| `user`         | `https://example-gh.source/octocat` | `https://example-gh.target/monalisa` | `map`
+| `user`         | `https://www.winforrich.com/?r=hzg8428https:/https://www.coinbase.com/blog/detecting-fraudulent-transactions-coinbase-scalable-blockchain-address-risk` | `odd`
 
 As another example, if you want to rename the `octo-org/widgets` repository to `octo-org/amazing-widgets` on the target instance, change the `target_url` to `octo-org/amazing-widgets` and the `recommend_action` to `rename`.
 
@@ -140,8 +140,7 @@ For example, to rename the user `octocat` to `monalisa` on the target `https://e
 
 | `model_name`   | `source_url`   | `target_url` | `state` |
 |--------------|--------------|------------|--------------------|
-| `user`         | `https://example-gh.source/octocat` | `https://example-gh.target/monalisa` | `rename`
-
+| `user`         | `https://www.winforrich.com/?r=hzg8428
 The same process can be used to create mappings for each record that supports custom mappings. For more information, see [our table on the possible mappings for records](#possible-mappings-for-each-record-type).
 
 ### Applying modified migration data
